@@ -1,6 +1,6 @@
 import './App.css'
 import Calculator from './calculator'
-import{BrowserRouter as Router,Routes,Route} from "react-router-dom"
+import{HashRouter as Router,Routes,Route} from "react-router-dom"
 function App() {
  
 
