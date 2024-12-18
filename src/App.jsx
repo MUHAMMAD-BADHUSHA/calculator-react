@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <div >
+      <div className='body' >
 
         <div className='calcu'>
           <form action="">
